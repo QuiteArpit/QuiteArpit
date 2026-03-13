@@ -68,9 +68,9 @@ No Activity Tracked This Week
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://www.linkedin.com/in/quitearpit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quitearpit" height="30" width="40" /></a>
-    <a href="https://x.com/QuiteArpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="QuiteArpit" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/quite.arpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quite.arpit" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/quitearpit/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quitearpit" height="30" width="40" /></a>
+    <a href="https://x.com/QuiteArpit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="QuiteArpit" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/quite.arpit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quite.arpit" height="30" width="40" /></a>
   </p>
 
   <hr>
