@@ -25,6 +25,8 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2030%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 206.6 kB Used in GitHub's Storage 
@@ -37,8 +39,26 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 28/05/2026 UTC
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/05/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
