@@ -25,6 +25,8 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2056%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 209.2 kB Used in GitHub's Storage 
@@ -43,25 +45,25 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   37.08 % 
-Bash                     1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
-HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+JavaScript               2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.26 % 
+Bash                     1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+HTML                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MAKAfuckingUT            4 hrs 10 mins       █████████████████████████   99.21 % 
-Concize                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+MAKAfuckingUT            5 hrs 24 mins       █████████████████████████   99.39 % 
+Concize                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/06/2026 UTC
+ Last Updated on 09/06/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
