@@ -45,25 +45,24 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.42 % 
-Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-HTML                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-SQL                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+JavaScript               2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+HTML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+SQL                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MAKAfuckingUT            8 hrs 21 mins       █████████████████████████   99.60 % 
-Concize                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+MAKAfuckingUT            7 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 UTC
+ Last Updated on 16/06/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
