@@ -45,24 +45,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   30.21 % 
-Markdown                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-SQL                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+SQL                      13 mins             ████████████████████████░   96.16 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MAKAfuckingUT            5 hrs 6 mins        █████████████████████████   100.00 % 
+MAKAfuckingUT            14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 UTC
+ Last Updated on 18/06/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
