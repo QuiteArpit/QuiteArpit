@@ -45,21 +45,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      13 mins             ████████████████████████░   96.16 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MAKAfuckingUT            14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/06/2026 UTC
+ Last Updated on 19/06/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
