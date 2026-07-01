@@ -31,7 +31,7 @@
 
 > 📦 209.5 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2026
+> 🏆 33 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,22 +45,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               25 mins             ██████████████████░░░░░░░   72.20 % 
-HTML                     9 mins              ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+HTML                     9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pake                     25 mins             ██████████████████░░░░░░░   72.20 % 
-CNbyArpit                9 mins              ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+CNbyArpit                9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2026 UTC
+ Last Updated on 01/07/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
