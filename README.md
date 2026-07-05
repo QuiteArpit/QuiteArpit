@@ -45,23 +45,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     27 mins             ████████████████████░░░░░   80.71 % 
-JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+HTML                     17 mins             ██████████████████░░░░░░░   72.86 % 
+JavaScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CNbyArpit                27 mins             ████████████████████░░░░░   80.71 % 
-Note                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+CNbyArpit                17 mins             ██████████████████░░░░░░░   72.86 % 
+Note                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.14 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2026 UTC
+ Last Updated on 05/07/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
