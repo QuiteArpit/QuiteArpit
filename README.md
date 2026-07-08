@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,23 +45,24 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     17 mins             ██████████████████░░░░░░░   72.86 % 
-JavaScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+HTML                     19 mins             ████████████████░░░░░░░░░   64.87 % 
+JavaScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CNbyArpit                17 mins             ██████████████████░░░░░░░   72.86 % 
-Note                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+CNbyArpit                23 mins             ████████████████████░░░░░   78.46 % 
+Note                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 UTC
+ Last Updated on 08/07/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
