@@ -45,21 +45,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     4 mins              ████████████████░░░░░░░░░   65.88 % 
-HTML                     2 mins              █████████░░░░░░░░░░░░░░░░   34.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CNbyArpit                6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/07/2026 UTC
+ Last Updated on 15/07/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
