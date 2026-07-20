@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,22 +45,25 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 37 mins             ████████████████████████░   94.53 % 
-TeX                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Markdown                 37 mins             ██████████████████████░░░   89.65 % 
+TeX                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-Antigravity CLI          31 mins             ████████████████████░░░░░   80.18 % 
-VS Code                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Antigravity CLI          31 mins             ███████████████████░░░░░░   76.04 % 
+VS Code                  10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
 
 🐱‍💻 Projects: 
-kb                       39 mins             █████████████████████████   100.00 % 
+kb                       39 mins             ████████████████████████░   94.84 % 
+MAKAfuckingUT            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+SpringerProceedingsTempla0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 UTC
+ Last Updated on 20/07/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
