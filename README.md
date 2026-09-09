@@ -47,20 +47,19 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 59 mins       ███████████████████░░░░░░   75.60 % 
-YAML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Java                     1 hr 50 mins        █████████████████░░░░░░░░   69.86 % 
+YAML                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JavaCodes                3 hrs 57 mins       █████████████████████████   100.00 % 
+JavaCodes                2 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,7 +69,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/09/2026 UTC
+ Last Updated on 09/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
