@@ -47,19 +47,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 50 mins        █████████████████░░░░░░░░   69.86 % 
-YAML                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-JavaCodes                2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,7 +66,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/09/2026 UTC
+ Last Updated on 10/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
