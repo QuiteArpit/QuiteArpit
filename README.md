@@ -25,9 +25,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2022%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,26 +47,46 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               48 mins             █████████████████░░░░░░░░   68.15 % 
+Other                    16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity CLI          43 mins             ███████████████░░░░░░░░░░   61.89 % 
+VS Code                  27 mins             ██████████░░░░░░░░░░░░░░░   38.11 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+EcoTak                   1 hr 6 mins         ███████████████████████░░   93.96 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 57 mins (81.49%)
+
+✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 37 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 2,383 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 UTC
+ Last Updated on 17/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
