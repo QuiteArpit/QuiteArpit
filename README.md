@@ -25,9 +25,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2025%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,29 +47,29 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 47 mins       █████████████████░░░░░░░░   67.18 % 
-Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-JavaScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               3 hrs 42 mins       ██████████████████░░░░░░░   70.40 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 31 mins       ███████████████░░░░░░░░░░   60.69 % 
-VS Code                  1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.83 % 
-Antigravity Desktop      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Antigravity CLI          2 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.76 % 
+VS Code                  1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Antigravity Desktop      1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
 
 🐱‍💻 Projects: 
-EcoTak                   4 hrs 4 mins        █████████████████████████   98.28 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+EcoTak                   5 hrs 12 mins       █████████████████████████   98.65 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Linux                    4 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 52 mins (93.44%)
+⏱ AI Coding Time: 5 hrs (94.84%)
 
 ✍️ 0 lines written by AI, 47 lines written by hand (0.0% AI-written)
 
@@ -77,17 +77,17 @@ Linux                    4 hrs 9 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 74 AI Prompts
+🧠 15 AI Sessions, 84 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,418 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 1,291 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/09/2026 UTC
+ Last Updated on 19/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
