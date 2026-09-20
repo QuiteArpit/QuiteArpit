@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2025%20mins-blue?style=flat)
 
@@ -47,31 +47,32 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       ██████████████████░░░░░░░   70.40 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+TypeScript               3 hrs 42 mins       █████████████████░░░░░░░░   67.06 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.76 % 
-VS Code                  1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Antigravity Desktop      1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Antigravity CLI          2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
+VS Code                  1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Antigravity Desktop      1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
 
 🐱‍💻 Projects: 
-EcoTak                   5 hrs 12 mins       █████████████████████████   98.65 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+EcoTak                   5 hrs 12 mins       ███████████████████████░░   93.96 % 
+DSA                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Linux                    5 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs (94.84%)
+⏱ AI Coding Time: 5 hrs (90.33%)
 
-✍️ 0 lines written by AI, 47 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 68 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -87,7 +88,7 @@ Linux                    5 hrs 16 mins       ███████████�
 ```
 
 
- Last Updated on 19/09/2026 UTC
+ Last Updated on 20/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
