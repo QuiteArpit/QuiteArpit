@@ -33,11 +33,11 @@
 
 > 📦 210.1 kB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2026
+> 🏆 45 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
@@ -47,48 +47,48 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 54 mins       ██████████████░░░░░░░░░░░   54.37 % 
-Markdown                 59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Markdown                 59 mins             ██████████░░░░░░░░░░░░░░░   41.72 % 
+TypeScript               49 mins             █████████░░░░░░░░░░░░░░░░   34.54 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Java                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.92 % 
-VS Code                  1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   34.92 % 
-Antigravity Desktop      1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Antigravity Desktop      1 hr 14 mins        █████████████░░░░░░░░░░░░   52.22 % 
+VS Code                  47 mins             ████████░░░░░░░░░░░░░░░░░   33.16 % 
+Antigravity CLI          20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 
 🐱‍💻 Projects: 
-EcoTak                   4 hrs 5 mins        ███████████████████░░░░░░   76.51 % 
-Swiipy                   59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-DSA                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+EcoTak                   1 hr 7 mins         ████████████░░░░░░░░░░░░░   47.22 % 
+Swiipy                   59 mins             ██████████░░░░░░░░░░░░░░░   41.72 % 
+DSA                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 
 💻 Operating System: 
-Linux                    5 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 56 mins (92.51%)
+⏱ AI Coding Time: 2 hrs 1 min (85.41%)
 
-✍️ 0 lines written by AI, 57 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 65 AI Prompts
+🧠 7 AI Sessions, 28 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 651 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 913 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 UTC
+ Last Updated on 25/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
