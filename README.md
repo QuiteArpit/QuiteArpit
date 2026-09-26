@@ -47,30 +47,29 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 59 mins             ██████████░░░░░░░░░░░░░░░   41.72 % 
-TypeScript               49 mins             █████████░░░░░░░░░░░░░░░░   34.54 % 
-Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Java                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Markdown                 59 mins             ████████████████░░░░░░░░░   63.74 % 
+Other                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Java                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Antigravity Desktop      1 hr 14 mins        █████████████░░░░░░░░░░░░   52.22 % 
-VS Code                  47 mins             ████████░░░░░░░░░░░░░░░░░   33.16 % 
-Antigravity CLI          20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+VS Code                  46 mins             ███████████████░░░░░░░░░░   61.79 % 
+Antigravity CLI          20 mins             ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 
 🐱‍💻 Projects: 
-EcoTak                   1 hr 7 mins         ████████████░░░░░░░░░░░░░   47.22 % 
-Swiipy                   59 mins             ██████████░░░░░░░░░░░░░░░   41.72 % 
-DSA                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Swiipy                   59 mins             ████████████████████░░░░░   79.06 % 
+DSA                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 1 min (85.41%)
+⏱ AI Coding Time: 54 mins (72.35%)
 
 ✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
 
@@ -78,17 +77,17 @@ Linux                    2 hrs 22 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 28 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 913 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,222 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 UTC
+ Last Updated on 26/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
