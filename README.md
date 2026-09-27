@@ -31,13 +31,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 210.1 kB Used in GitHub's Storage 
+> 📦 211.8 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2026
+> 🏆 65 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
@@ -47,31 +47,27 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 59 mins             ████████████████░░░░░░░░░   63.74 % 
-Other                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Java                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 59 mins             ███████████████████░░░░░░   76.69 % 
+Other                    18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
 
 🔥 Editors: 
-VS Code                  46 mins             ███████████████░░░░░░░░░░   61.79 % 
-Antigravity CLI          20 mins             ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+VS Code                  30 mins             █████████████░░░░░░░░░░░░   51.67 % 
+Antigravity CLI          20 mins             █████████░░░░░░░░░░░░░░░░   35.04 % 
+Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 
 🐱‍💻 Projects: 
-Swiipy                   59 mins             ████████████████████░░░░░   79.06 % 
-DSA                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Swiipy                   59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+Linux                    59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (72.35%)
+⏱ AI Coding Time: 54 mins (91.51%)
 
-✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 19 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -87,7 +83,7 @@ Linux                    1 hr 15 mins        ███████████�
 ```
 
 
- Last Updated on 26/09/2026 UTC
+ Last Updated on 27/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
