@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2019%20mins-blue?style=flat)
 
@@ -33,7 +33,7 @@
 
 > 📦 211.8 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2026
+> 🏆 66 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,43 +47,52 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 59 mins             ███████████████████░░░░░░   76.69 % 
-Other                    18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Markdown                 1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   40.38 % 
+JSON                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+TypeScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Git Config               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████░░░░░░░░░░░░   51.67 % 
-Antigravity CLI          20 mins             █████████░░░░░░░░░░░░░░░░   35.04 % 
-Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+VS Code                  2 hrs 14 mins       ██████████████░░░░░░░░░░░   55.36 % 
+Antigravity Desktop      1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.66 % 
+Antigravity CLI          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🐱‍💻 Projects: 
-Swiipy                   59 mins             █████████████████████████   100.00 % 
+EcoTak                   1 hr 43 mins        ███████████░░░░░░░░░░░░░░   42.79 % 
+Resume                   1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   32.62 % 
+Swiipy                   59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 
 💻 Operating System: 
-Linux                    59 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 43 mins       █████████████████░░░░░░░░   67.38 % 
+Windows                  1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   32.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (91.51%)
+⏱ AI Coding Time: 2 hrs 25 mins (60.03%)
 
-✍️ 0 lines written by AI, 19 lines written by hand (0.0% AI-written)
+✍️ 102 lines written by AI, 96 lines written by hand (51.52% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 341,826 Input Tokens, 12,157 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.30 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 18 AI Prompts
+🧠 9 AI Sessions, 40 AI Prompts
+
+Gemini                   102 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,222 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 51.52% of written lines came from AI
+📄 Detailed Prompter — average 760 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 66.88% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 UTC
+ Last Updated on 28/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
