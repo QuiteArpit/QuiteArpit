@@ -25,9 +25,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -41,58 +41,8 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   40.38 % 
-JSON                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-TypeScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Git Config               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 14 mins       ██████████████░░░░░░░░░░░   55.36 % 
-Antigravity Desktop      1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.66 % 
-Antigravity CLI          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-
-🐱‍💻 Projects: 
-EcoTak                   1 hr 43 mins        ███████████░░░░░░░░░░░░░░   42.79 % 
-Resume                   1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   32.62 % 
-Swiipy                   59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-
-💻 Operating System: 
-Linux                    2 hrs 43 mins       █████████████████░░░░░░░░   67.38 % 
-Windows                  1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   32.62 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 25 mins (60.03%)
-
-✍️ 102 lines written by AI, 96 lines written by hand (51.52% AI-written)
-
-🔤 341,826 Input Tokens, 12,157 Output Tokens
-
-💵 $0.30 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 40 AI Prompts
-
-Gemini                   102 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.52% of written lines came from AI
-📄 Detailed Prompter — average 760 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 66.88% of changed lines were hand-edited
-```
-
-
- Last Updated on 28/09/2026 UTC
+ Last Updated on 29/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
