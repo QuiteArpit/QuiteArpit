@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2050%20mins-blue?style=flat)
 
@@ -41,8 +41,59 @@
  > 
 > 🔑 13 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/09/2026 UTC
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               1 hr                ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+JSON                     51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Markdown                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+C++                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Git Config               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+
+🔥 Editors: 
+VS Code                  1 hr 52 mins        ████████████░░░░░░░░░░░░░   48.70 % 
+Antigravity Desktop      1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.99 % 
+Antigravity CLI          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+
+🐱‍💻 Projects: 
+EcoTak                   1 hr 52 mins        ████████████░░░░░░░░░░░░░   48.84 % 
+Resume                   1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   34.28 % 
+atoll                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+
+💻 Operating System: 
+Linux                    2 hrs 31 mins       ████████████████░░░░░░░░░   65.72 % 
+Windows                  1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   34.28 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 9 mins (56.32%)
+
+✍️ 522 lines written by AI, 78 lines written by hand (87.0% AI-written)
+
+🔤 2,454,875 Input Tokens, 43,854 Output Tokens
+
+💵 $2.99 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 33 AI Prompts
+
+Gemini                   522 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.0% of written lines came from AI
+📝 Concise Prompter — average 367 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 26.17% of changed lines were hand-edited
+```
+
+
+ Last Updated on 30/09/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
