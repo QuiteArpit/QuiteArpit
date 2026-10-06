@@ -47,50 +47,26 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr                ████████░░░░░░░░░░░░░░░░░   31.41 % 
-JSON                     51 mins             ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-Markdown                 45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Git Config               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+TypeScript               8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        ███████████████░░░░░░░░░░   58.59 % 
-Antigravity Desktop      1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   39.69 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EcoTak                   1 hr 52 mins        ███████████████░░░░░░░░░░   58.76 % 
-Resume                   1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   41.24 % 
+EcoTak                   8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 52 mins        ███████████████░░░░░░░░░░   58.76 % 
-Windows                  1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   41.24 % 
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (47.45%)
-
-✍️ 102 lines written by AI, 78 lines written by hand (56.67% AI-written)
-
-🔤 341,826 Input Tokens, 12,157 Output Tokens
-
-💵 $0.30 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 22 AI Prompts
-
-Gemini                   102 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.67% of written lines came from AI
-📝 Concise Prompter — average 382 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 64.46% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/10/2026 UTC
+ Last Updated on 06/10/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
