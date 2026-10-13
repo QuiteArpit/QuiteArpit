@@ -25,21 +25,21 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 211.9 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2026
+> 🏆 72 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -47,26 +47,49 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+TypeScript               54 mins             ████████████████████░░░░░   81.24 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  29 mins             ███████████░░░░░░░░░░░░░░   43.22 % 
+CLI                      26 mins             ██████████░░░░░░░░░░░░░░░   39.57 % 
+Cline                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Antigravity Desktop      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 🐱‍💻 Projects: 
-EcoTak                   0 secs              █████████████████████████   100.00 % 
+EcoTak                   1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 43 mins (64.73%)
+
+✍️ 0 lines written by AI, 284 lines written by hand (0.0% AI-written)
+
+🔤 260,315 Input Tokens, 1,505 Output Tokens
+
+💵 $0.86 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 186 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 UTC
+ Last Updated on 13/10/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
