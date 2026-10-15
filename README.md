@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2034%20mins-blue?style=flat)
 
@@ -47,31 +47,32 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               54 mins             ████████████████████░░░░░   81.24 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               54 mins             ████████████░░░░░░░░░░░░░   46.27 % 
+HTML                     51 mins             ███████████░░░░░░░░░░░░░░   43.02 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-VS Code                  29 mins             ███████████░░░░░░░░░░░░░░   43.22 % 
-CLI                      26 mins             ██████████░░░░░░░░░░░░░░░   39.57 % 
-Cline                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Antigravity Desktop      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+VS Code                  1 hr 20 mins        █████████████████░░░░░░░░   67.66 % 
+CLI                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Cline                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Antigravity Desktop      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🐱‍💻 Projects: 
-EcoTak                   1 hr 7 mins         █████████████████████████   100.00 % 
+EcoTak                   1 hr 7 mins         ██████████████░░░░░░░░░░░   56.96 % 
+odin-recipes             51 mins             ███████████░░░░░░░░░░░░░░   43.04 % 
 
 💻 Operating System: 
-Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (64.73%)
+⏱ AI Coding Time: 43 mins (36.87%)
 
-✍️ 0 lines written by AI, 284 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 817 lines written by hand (0.0% AI-written)
 
 🔤 260,315 Input Tokens, 1,505 Output Tokens
 
@@ -89,7 +90,7 @@ Cline                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/10/2026 UTC
+ Last Updated on 15/10/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
