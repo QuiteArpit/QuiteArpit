@@ -47,50 +47,27 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               54 mins             ████████████░░░░░░░░░░░░░   46.23 % 
-HTML                     51 mins             ███████████░░░░░░░░░░░░░░   43.05 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+HTML                     51 mins             █████████████████████████   99.94 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████░░░░░░░░   67.64 % 
-CLI                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Cline                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Antigravity Desktop      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EcoTak                   1 hr 7 mins         ██████████████░░░░░░░░░░░   56.93 % 
-odin-recipes             51 mins             ███████████░░░░░░░░░░░░░░   43.07 % 
+odin-recipes             51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (36.89%)
-
-✍️ 0 lines written by AI, 817 lines written by hand (0.0% AI-written)
-
-🔤 260,315 Input Tokens, 1,505 Output Tokens
-
-💵 $0.86 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 7 AI Prompts
-
-Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 186 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2026 UTC
+ Last Updated on 19/10/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
