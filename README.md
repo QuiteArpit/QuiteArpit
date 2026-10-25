@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2034%20mins-blue?style=flat)
 
@@ -47,16 +47,19 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     22 mins             █████████████░░░░░░░░░░░░   50.80 % 
+CSS                      18 mins             ███████████░░░░░░░░░░░░░░   42.47 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+css-exercises            44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -66,7 +69,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/10/2026 UTC
+ Last Updated on 25/10/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
