@@ -31,15 +31,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 198.7 kB Used in GitHub's Storage 
+> 📦 198.8 kB Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2026
+> 🏆 65 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -47,29 +47,48 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     22 mins             █████████████░░░░░░░░░░░░   50.80 % 
-CSS                      18 mins             ███████████░░░░░░░░░░░░░░   42.47 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Markdown                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Python                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+HTML                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+CSS                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████░░░░   82.78 % 
+Copilot CLI              19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 
 🐱‍💻 Projects: 
-css-exercises            44 mins             █████████████████████████   100.00 % 
+MediGuide                1 hr 11 mins        ███████████████░░░░░░░░░░   61.42 % 
+css-exercises            44 mins             ██████████░░░░░░░░░░░░░░░   38.58 % 
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 25 mins (22.35%)
+
+✍️ 54 lines written by AI, 350 lines written by hand (13.37% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+GPT                      56 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 13.37% of written lines came from AI
+📚 Verbose Prompter — average 3,363 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 88.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 UTC
+ Last Updated on 28/10/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
