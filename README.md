@@ -25,13 +25,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2017%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%206%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 198.8 kB Used in GitHub's Storage 
+> 📦 198.9 kB Used in GitHub's Storage 
  > 
 > 🏆 64 Contributions in the Year 2026
  > 
@@ -47,31 +43,32 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 53 mins             ████████░░░░░░░░░░░░░░░░░   33.32 % 
-Python                   49 mins             ████████░░░░░░░░░░░░░░░░░   30.86 % 
-CSS                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+CSS                      1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.52 % 
+Markdown                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Python                   49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        ███████████████░░░░░░░░░░   60.73 % 
-Copilot CLI              1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   39.27 % 
+VS Code                  2 hrs 24 mins       █████████████████░░░░░░░░   69.78 % 
+Copilot CLI              1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   30.22 % 
 
 🐱‍💻 Projects: 
-MediGuide                1 hr 59 mins        ███████████████████░░░░░░   74.96 % 
-css-exercises            33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-QuiteArpit               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+MediGuide                1 hr 59 mins        ██████████████░░░░░░░░░░░   57.69 % 
+odin-recipes             47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+css-exercises            33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+QuiteArpit               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (57.55%)
+⏱ AI Coding Time: 1 hr 31 mins (44.3%)
 
-✍️ 1,310 lines written by AI, 292 lines written by hand (81.77% AI-written)
+✍️ 1,310 lines written by AI, 595 lines written by hand (68.77% AI-written)
 
 🔤 1,285,924 Input Tokens, 160,462 Output Tokens
 
@@ -82,10 +79,10 @@ Linux                    2 hrs 39 mins       ███████████�
 GPT                      1,316 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.77% of written lines came from AI
+🤖 AI-Driven — 68.77% of written lines came from AI
 📚 Verbose Prompter — average 2,164 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 22.13% of changed lines were hand-edited
+🚀 High AI Trust — 38.01% of changed lines were hand-edited
 ```
 
 
