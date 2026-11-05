@@ -47,50 +47,50 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-CSS                      1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Python                   1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+CSS                      1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   34.58 % 
+Markdown                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Python                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        ███████████████████░░░░░░   74.47 % 
-Copilot CLI              1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+VS Code                  2 hrs 17 mins       ███████████████████░░░░░░   75.45 % 
+Copilot CLI              44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
 
 🐱‍💻 Projects: 
-MediGuide                2 hrs 46 mins       ████████████████░░░░░░░░░   65.49 % 
-odin-recipes             47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-css-exercises            33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-QuiteArpit               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+MediGuide                1 hr 35 mins        █████████████░░░░░░░░░░░░   52.06 % 
+odin-recipes             47 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+css-exercises            33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+QuiteArpit               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Operating System: 
-Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (39.15%)
+⏱ AI Coding Time: 1 hr 13 mins (40.23%)
 
-✍️ 1,381 lines written by AI, 596 lines written by hand (69.85% AI-written)
+✍️ 1,327 lines written by AI, 353 lines written by hand (78.99% AI-written)
 
 🔤 1,285,924 Input Tokens, 160,462 Output Tokens
 
 💵 $0.86 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 13 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
-GPT                      1,387 lines         █████████████████████████   100.00 % 
+GPT                      1,331 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.85% of written lines came from AI
-📚 Verbose Prompter — average 2,003 characters per prompt
+🤖 AI-Driven — 78.99% of written lines came from AI
+📄 Detailed Prompter — average 1,153 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 36.87% of changed lines were hand-edited
+🚀 High AI Trust — 27.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/11/2026 UTC
+ Last Updated on 05/11/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
