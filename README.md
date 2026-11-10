@@ -25,9 +25,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,49 +47,49 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               50 mins             ████████░░░░░░░░░░░░░░░░░   31.81 % 
-Other                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-CSS                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+TypeScript               1 hr 42 mins        ████████████░░░░░░░░░░░░░   47.00 % 
+Markdown                 46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Image (jpeg)             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        ████████████████░░░░░░░░░   63.04 % 
-Codex Vscode             32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Antigravity Desktop      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+VS Code                  1 hr 33 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
+Codex Vscode             1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   34.38 % 
+Antigravity Desktop      46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🐱‍💻 Projects: 
-MediGuide                55 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
-EcoTak                   50 mins             ████████░░░░░░░░░░░░░░░░░   31.81 % 
-Pitlane                  48 mins             ████████░░░░░░░░░░░░░░░░░   30.61 % 
-F1Embed                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+EcoTak                   2 hrs 44 mins       ███████████████████░░░░░░   75.46 % 
+Pitlane                  48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+F1Embed                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (67.95%)
+⏱ AI Coding Time: 3 hrs 30 mins (96.74%)
 
-✍️ 294 lines written by AI, 129 lines written by hand (69.5% AI-written)
+✍️ 542 lines written by AI, 128 lines written by hand (80.9% AI-written)
 
-🔤 777,038 Input Tokens, 93,013 Output Tokens
+🔤 1,455,641 Input Tokens, 198,611 Output Tokens
 
-💵 $0.75 Estimated AI Cost This Week
+💵 $3.47 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 19 AI Prompts
+🧠 20 AI Sessions, 40 AI Prompts
 
-GPT                      350 lines           █████████████████████████   100.00 % 
+GPT                      731 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.5% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 27.69% of changed lines were hand-edited
+🤖 AI-Driven — 80.9% of written lines came from AI
+📝 Concise Prompter — average 377 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 15.3% of changed lines were hand-edited
 ```
 
 
