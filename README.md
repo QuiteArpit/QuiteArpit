@@ -25,9 +25,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,53 +47,53 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        ████████████░░░░░░░░░░░░░   47.00 % 
-Markdown                 46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Image (jpeg)             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+TypeScript               3 hrs 11 mins       █████████████░░░░░░░░░░░░   51.07 % 
+CSS                      1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Image (jpeg)             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
-Codex Vscode             1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   34.38 % 
-Antigravity Desktop      46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Antigravity Desktop      2 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
+VS Code                  2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Codex Vscode             1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-EcoTak                   2 hrs 44 mins       ███████████████████░░░░░░   75.46 % 
-Pitlane                  48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-F1Embed                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+EcoTak                   5 hrs 21 mins       █████████████████████░░░░   85.77 % 
+Pitlane                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+F1Embed                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Linux                    3 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 30 mins (96.74%)
+⏱ AI Coding Time: 6 hrs 4 mins (97.29%)
 
-✍️ 542 lines written by AI, 128 lines written by hand (80.9% AI-written)
+✍️ 545 lines written by AI, 129 lines written by hand (80.86% AI-written)
 
-🔤 1,455,641 Input Tokens, 198,611 Output Tokens
+🔤 1,853,106 Input Tokens, 220,966 Output Tokens
 
-💵 $3.47 Estimated AI Cost This Week
+💵 $4.45 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 40 AI Prompts
+🧠 25 AI Sessions, 72 AI Prompts
 
-GPT                      731 lines           █████████████████████████   100.00 % 
+GPT                      736 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.9% of written lines came from AI
-📝 Concise Prompter — average 377 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 15.3% of changed lines were hand-edited
+🤖 AI-Driven — 80.86% of written lines came from AI
+📝 Concise Prompter — average 414 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 29.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/11/2026 UTC
+ Last Updated on 12/11/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
