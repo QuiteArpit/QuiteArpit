@@ -47,51 +47,51 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       ███████████████░░░░░░░░░░   59.54 % 
-CSS                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Image (jpeg)             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+TypeScript               2 hrs 20 mins       █████████████░░░░░░░░░░░░   51.95 % 
+CSS                      1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Image (jpeg)             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Git                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Antigravity Desktop      2 hrs 45 mins       █████████████░░░░░░░░░░░░   51.40 % 
-VS Code                  1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Codex Vscode             53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Antigravity Desktop      2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.09 % 
+VS Code                  1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+Codex Vscode             53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 Projects: 
-EcoTak                   5 hrs 21 mins       █████████████████████████   100.00 % 
+EcoTak                   4 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 14 mins (97.87%)
+⏱ AI Coding Time: 4 hrs 23 mins (97.47%)
 
-✍️ 322 lines written by AI, 1 lines written by hand (99.69% AI-written)
+✍️ 322 lines written by AI, 3 lines written by hand (99.08% AI-written)
 
-🔤 1,711,893 Input Tokens, 145,816 Output Tokens
+🔤 1,503,868 Input Tokens, 140,583 Output Tokens
 
-💵 $4.30 Estimated AI Cost This Week
+💵 $3.83 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 64 AI Prompts
+🧠 23 AI Sessions, 54 AI Prompts
 
 GPT                      493 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📝 Concise Prompter — average 426 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.59% of changed lines were hand-edited
+🤖 AI-Driven — 99.08% of written lines came from AI
+📝 Concise Prompter — average 456 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 28.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/11/2026 UTC
+ Last Updated on 17/11/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
