@@ -47,48 +47,26 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 29 mins        ██████████████░░░░░░░░░░░   56.68 % 
-CSS                      1 hr                ██████████░░░░░░░░░░░░░░░   38.61 % 
-Git                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity Desktop      1 hr 58 mins        ███████████████████░░░░░░   75.22 % 
-VS Code                  27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Codex Vscode             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Antigravity Desktop      1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EcoTak                   2 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (98.05%)
-
-✍️ 3 lines written by AI, 3 lines written by hand (50.0% AI-written)
-
-🔤 397,465 Input Tokens, 22,355 Output Tokens
-
-💵 $0.98 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 32 AI Prompts
-
-GPT                      41 lines            █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.0% of written lines came from AI
-📝 Concise Prompter — average 460 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 97.35% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/11/2026 UTC
+ Last Updated on 19/11/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
