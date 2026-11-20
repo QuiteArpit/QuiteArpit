@@ -47,16 +47,19 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      1 hr 12 mins        █████████████████░░░░░░░░   68.84 % 
+HTML                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
 🔥 Editors: 
-Antigravity Desktop      1 min               █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   98.74 % 
+Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+css-exercises            1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -66,7 +69,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 19/11/2026 UTC
+ Last Updated on 20/11/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
