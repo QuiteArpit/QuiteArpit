@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2018%20mins-blue?style=flat)
 
@@ -47,19 +47,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      1 hr 12 mins        █████████████████░░░░░░░░   68.84 % 
-HTML                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+CSS                      1 hr 30 mins        ████████████████░░░░░░░░░   64.97 % 
+HTML                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   98.74 % 
-Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+VS Code                  2 hrs 19 mins       █████████████████████████   99.04 % 
+Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-css-exercises            1 hr 45 mins        █████████████████████████   100.00 % 
+css-exercises            2 hrs 6 mins        ███████████████████████░░   90.52 % 
+html-boilerplate         13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 
 💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,7 +71,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/11/2026 UTC
+ Last Updated on 21/11/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
