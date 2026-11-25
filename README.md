@@ -33,11 +33,11 @@
 
 > 📦 198.9 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2026
+> 🏆 72 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -47,21 +47,24 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      1 hr 30 mins        ████████████████░░░░░░░░░   64.97 % 
-HTML                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+CSS                      1 hr 30 mins        █████████████░░░░░░░░░░░░   51.74 % 
+HTML                     1 hr                █████████░░░░░░░░░░░░░░░░   34.61 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 19 mins       █████████████████████████   99.04 % 
-Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   99.24 % 
+Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-css-exercises            2 hrs 6 mins        ███████████████████████░░   90.52 % 
-html-boilerplate         13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+css-exercises            2 hrs 6 mins        ██████████████████░░░░░░░   72.08 % 
+antigravity-linux        28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+html-boilerplate         13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+FeeLedger                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,7 +74,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/11/2026 UTC
+ Last Updated on 25/11/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
