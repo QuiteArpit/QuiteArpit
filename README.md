@@ -37,9 +37,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -47,24 +47,24 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      1 hr 30 mins        █████████████░░░░░░░░░░░░   51.74 % 
-HTML                     1 hr                █████████░░░░░░░░░░░░░░░░   34.61 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+HTML                     37 mins             ██████████████░░░░░░░░░░░   54.07 % 
+CSS                      17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   99.24 % 
-Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+VS Code                  1 hr 9 mins         █████████████████████████   98.10 % 
+Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-css-exercises            2 hrs 6 mins        ██████████████████░░░░░░░   72.08 % 
-antigravity-linux        28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-html-boilerplate         13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-FeeLedger                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+antigravity-linux        28 mins             ██████████░░░░░░░░░░░░░░░   41.27 % 
+css-exercises            20 mins             ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+html-boilerplate         13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+FeeLedger                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,7 +74,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/11/2026 UTC
+ Last Updated on 27/11/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
